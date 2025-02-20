@@ -23,3 +23,6 @@
 ## Контакты
 
 - Telegram: [https://t.me/Debugger_24h](https://t.me/Debugger_24h)
+
+Переключиться на английскую версию:
+- [English](README.en.md)
