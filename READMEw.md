@@ -25,5 +25,5 @@ At the moment, I have no completed projects, but I am actively working on creati
 - Telegram: [https://t.me/Debugger_24h](https://t.me/Debugger_24h)
 
 Switch to the Russian version:
-- [Русский](README.md)
+- [Русский](README.ru.md)
 ```` ▋
